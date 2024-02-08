@@ -1,1 +1,1 @@
-# physics_lectures
+# Phhysics Lectures

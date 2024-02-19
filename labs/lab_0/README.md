@@ -17,4 +17,9 @@ Your task is to understand the material, not to memorize it. You should be able 
 not just remember the solutions. Kinds of problems you can solve on pieces of paper are very limited.
 Our goal is to prepare you for the real world, where you will have access to all the tools you need.
 We will play around with these tools during the classes, to explore physics beyond traditional problems.
+I encourage you to build teams and work together. You can learn a lot from each other! 
+Share your knowledge and experience. This is very important in the real world.
 
+Please remember that you can have an impact on the classes. If you have any suggestions, please let me know.
+Do not hesitate to ask questions. If you have a question, probably someone else has the same question.
+We together can make these classes better!

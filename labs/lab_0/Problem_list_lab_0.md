@@ -23,10 +23,10 @@ What is a difference between these two integrals?
 
 Plot the following parametric function:
 
-\begin{align*}
+$\begin{align*}
  x(t) &= 3t \\
  y(t) &= t^2 - 3t 
-\end{align*} 
+\end{align*} $
 
 What is the shape of the plot? What describes the parametric function?
 Can you tell what kind of physical process is described by the function?

@@ -6,4 +6,7 @@ matplotlib
 plotly
 jupyter
 jupyterlab
+nbconvert
+jupytext
+manim
 

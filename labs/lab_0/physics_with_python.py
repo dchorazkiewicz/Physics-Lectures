@@ -10,20 +10,44 @@ import matplotlib.pyplot as plt
 
 
 # %% codecell
-# Example 1: Projectile Motion
-# Let's solve a simple projectile motion problem
-# A projectile is launched with a velocity of 20 m/s at an angle of 30 degrees.
-# How far will it travel in the horizontal direction?
-# Let's solve this problem using Python
+# Plot sin(x) and cos(x) from 0 to 2*pi
+x = np.linspace(0, 2 * np.pi, 100)
+y1 = np.sin(x)
+y2 = np.cos(x)
+plt.plot(x, y1, label="sin(x)", color="r")
+plt.plot(x, y2, label="cos(x)", color="b")
+plt.legend()
+plt.show()
 
-# Constants
-v = 20  # m/s
-theta = 30  # degrees
-g = 9.81  # m/s^2
+# %% codecell
+# plot circle
+theta = np.linspace(0, 2 * np.pi, 100)
+x = np.cos(theta)
+y = np.sin(theta)
+plt.plot(x, y)
+plt.axis("equal")
+plt.show()
 
-# Convert angle to radians
-theta = np.radians(theta)
 
-# Calculate horizontal distance
-d = (v**2 * np.sin(2 * theta)) / g
-print(f"The horizontal distance is {d:.2f} meters")
+# %% codecell
+# solve a y'(x)=-y(x) with y(0)=1 using Euler's method
+def f(x, y):
+    return -y
+
+
+x = 0
+y = 1
+h = 0.001
+X = [x]
+Y = [y]
+for i in range(10000):
+    y = y + h * f(x, y)
+    x = x + h
+    X.append(x)
+    Y.append(y)
+plt.plot(X, Y)
+plt.show()
+
+# %% codecell
+# solve a y''(x)=-y(x) with y(0)=0 and y'(0)=1 using Euler's method
+# What is wrong with this numerical solution?

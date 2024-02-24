@@ -98,7 +98,7 @@
 12. Find distance between volcano Vesuvius and Warsaw and establish time
     when we will hear eruption in Warsaw.
 
-# Problems for GPT {#problems-for-gpt .unnumbered}
+# Problems for GPT 
 
 ## Problem 1 
 

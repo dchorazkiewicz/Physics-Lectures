@@ -1,7 +1,9 @@
 # Physics Lectures
 
-Manim installation on Ubuntu 22.04 LTS.
+## Useful Links
 
-    sudo apt update
-    sudo apt install libpango1.0-dev libpangocairo-1.0-0 ffmpeg
-    sudo apt-get install texlive texlive-latex-extra
+- WolframAlpha - https://www.wolframalpha.com/ 
+- GeoGebra - https://www.geogebra.org/
+- Colab - https://colab.research.google.com/ 
+- ChatGPT - https://chat.openai.com/ 
+- Gemini Google - https://gemini.google.com/app 

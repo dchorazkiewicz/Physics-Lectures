@@ -127,3 +127,7 @@ $x(t) = 3t$ and $y(t) = -t^2 - 3t$
 
 What is the shape of the plot? What describes the parametric function?
 Can you tell what kind of physical process is described by the function?
+
+## Problem 4
+
+Use ChatGPT to solve couple examples you did using WolframAlpha.

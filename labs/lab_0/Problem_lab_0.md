@@ -7,18 +7,15 @@
 
 2.  Provide the current distance from the Moon to the Earth.
 
-3.  Give the relative frequency of occurrence of letters in the alphabet
-    in Polish text.
+3.  Compare Poland and Germany.
 
-4.  Compare Poland and Germany.
+4.  Compare Albert Einstein and Marie Curie.
 
-5.  Compare Albert Einstein and Marie Curie.
+5.  Check the ratio of the population of France to Germany.
 
-6.  Check the ratio of the population of France to Germany.
+6.  Check the distance between your city and Turin.
 
-7.  Check the distance between your city and Turin.
-
-8.  Check the effect of entering each of the phrases: Sierpiński
+7.  Check the effect of entering each of the phrases: Sierpiński
     Triangle, Stefan Banach
 
 ## Math with Wolfram Alpha 

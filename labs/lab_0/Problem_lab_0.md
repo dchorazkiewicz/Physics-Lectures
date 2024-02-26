@@ -30,41 +30,33 @@
 4.  Check how to express $\sin(2\alpha)$ as a function of $\sin(\alpha)$
     and $\cos(\alpha)$.
 
-5.  Calculate the sum of the reciprocals of successive natural numbers
-    from 1 to 10000.
+5.  Expand the expression $(x+1)(x-2)$.
 
-6.  Calculate the sum of the reciprocals of the squares of all natural
-    numbers.
+6.  Find the factored form of the expression $2 - 5x - 3x^2$.
 
-7.  Factorize the number 1234567890.
-
-8.  Expand the expression $(x+1)(x-2)$.
-
-9.  Find the factored form of the expression $2 - 5x - 3x^2$.
-
-10. Determine in how many ways 6 different numbers can be chosen from
+7. Determine in how many ways 6 different numbers can be chosen from
     49.
 
-11. How many permutations are there of a 15-element set?
+8. How many permutations are there of a 15-element set?
 
-12. Draw the set of solutions of the equation $x^2 + y^2 = 1$.
+9. Draw the set of solutions of the equation $x^2 + y^2 = 1$.
 
-13. Draw the set of solutions of the equation $x^2 + y^3 = 1$.
+10. Draw the set of solutions of the equation $x^2 + y^3 = 1$.
 
-14. Find all asymptotes of the function $f(x) = \frac{x^2 -1}{x^2-4}$.
+11. Find all asymptotes of the function $f(x) = \frac{x^2 -1}{x^2-4}$.
 
-15. Find all asymptotes of the function $f(x) = \frac{x^2 -1}{x-2}$.
+12. Find all asymptotes of the function $f(x) = \frac{x^2 -1}{x-2}$.
 
-16. Solve the equation $\sin(x) = \cos(x)$.
+13. Solve the equation $\sin(x) = \cos(x)$.
 
-17. Solve the equation $\sin(x) = \cos(2x)$.
+14. Solve the equation $\sin(x) = \cos(2x)$.
 
-18. Solve the equation $\cos(x) = x/\pi$.
+15. Solve the equation $\cos(x) = x/\pi$.
 
-19. Draw 3D graph of the function
+16. Draw 3D graph of the function
     $f(x,y)=\sin(\sqrt{x^2+y^2})/\sqrt{x^2+y^2}$.
 
-20. Plot $\sin(1x)$, $\sin(2x)$, $\sin(3x)$, $\sin(4x)$ on the same
+21. Plot $\sin(1x)$, $\sin(2x)$, $\sin(3x)$, $\sin(4x)$ on the same
     plot.
 
 ## Physics with Wolfram Alpha 

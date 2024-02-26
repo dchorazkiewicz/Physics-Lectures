@@ -34,8 +34,7 @@
 
 6.  Find the factored form of the expression $2 - 5x - 3x^2$.
 
-7. Determine in how many ways 6 different numbers can be chosen from
-    49.
+7. Determine in how many ways 6 different numbers can be chosen from 49 numbers.
 
 8. How many permutations are there of a 15-element set?
 

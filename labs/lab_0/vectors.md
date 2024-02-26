@@ -1,8 +1,8 @@
 # Vector Operations Task List
 
-1. Add vectors a=[3,4,5] and b=[2,-1,4]. Calculate their sum.
+1. Add vectors a=[3,4,5] and b=[2,-1,4]
 
-2. Subtract vectors c=[7,-2,3] from d=[1,2,-1]. Find the result.
+2. Subtract vectors c=[7,-2,3] from d=[1,2,-1]
 
 3. Calculate the dot product of vectors e=[4,3,0] and f=[-1,2,0].
 
@@ -12,7 +12,7 @@
 
 6. Normalize the vector j=[3,4,0].
 
-7. Calculate the angle between vectors k=[1,1] and l=[-1,1]. Assume the angle is in degrees.
+7. Calculate the angle between vectors k=[1,1] and l=[-1,1]
 
 8. Calculate the projection of vector m=[3,4] onto n=[1,0].
 
